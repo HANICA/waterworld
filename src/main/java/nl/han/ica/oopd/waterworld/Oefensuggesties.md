@@ -27,5 +27,5 @@ Dit is een set van verdere oefeningen. Enkele hulp media bestanden die je soms n
 - [ ] G. Zorg dat de vis projectielen kan schieten met de spatiebalk, deze gaan naar links of naar rechts (afhankelijk of vis naar links of rechts respectievelijk kijkt)
 - [ ] H. Zorg dat de zwaardvis tot stilstand komt als de vis ertegen aan botst
 - [ ] I. Zorg dat je met de projectielen de zwaardvis kunt neerschieten
-- [ ] J. Zorg dat de zwaardvis naar de bodem van het scherm stort als deze dood gaat (maak hiervoor ook opgave I, of als je die niet doet, laat de zwaardvis dan simpelweg doodgaan als je op spatie drukt zonder projectielen)
+- [ ] J. Zorg dat de zwaardvis naar de bodem van het scherm stort als deze dood gaat (Maak hiervoor ook opgave I. Of als je die niet doet, laat de zwaardvis dan simpelweg doodgaan als je 1e keer op de spatie drukt. Dan hoef je de projectielen niet te implementeren.)
 - [ ] K. Zorg dat de zwaardvis ook de tiles opeet als hij er doorheen zwemt (zet de zwaardvis bij begin van het spel op de rij met de tiles om te testen) (tip: gebruik gedeelde abstracte interface of klasse `TileEater` voor Zwaardvis en (player) vis i.p.v. duplicatie van code en meerdere if else checks).
